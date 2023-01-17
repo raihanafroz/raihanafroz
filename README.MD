@@ -21,8 +21,7 @@
  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanafroz&hide=python&layout=compact&theme=tokyonight" alt="Raihan's Github Languages"/>
 </p>
 <p>
- <img width="40%" src="https://github-readme-stats.vercel.app/api?username=raihanafroz&theme=tokyonight&show_icons=true&count_private=true" alt="Raihan's Github Stats"/>
-</p>
-<p>
- <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanafroz&theme=tokyonight" alt="Raihan's Github Streak"/>
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raihanafroz&theme=tokyonight&show_icons=true&count_private=true" alt="Raihan's Github Stats"/>
+
+ <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanafroz&theme=tokyonight" alt="Raihan's Github Streak"/>
 </p>
