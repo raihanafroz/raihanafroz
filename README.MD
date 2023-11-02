@@ -1,4 +1,4 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Raihan!](https://github.com/raihanafroz/)
+## Hello, This is [Raihan!](https://github.com/raihanafroz/)
 <br>
 <p>
 
